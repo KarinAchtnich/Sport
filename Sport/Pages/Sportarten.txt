@@ -1,0 +1,41 @@
+alles andere Vergesseene X 1
+Akrobatik A 2
+Aikido A 3
+Badminton B 4
+Baseball B 5
+Beachvolleyball B 6
+Diskwurf D 7
+Eishockey E 8
+Federball F 9
+Fussball F 10
+Geräteturnen G 11
+Gymnastik G 12
+Handball H 13
+Hindernislauf H 14
+Hochsprung H 15
+Klettern K 16
+Kugelstoss K 17
+Leichtatlethik L 18
+Orientierungslauf O 19
+Pilates P 20
+Quidditch Q 21
+Reiten R 22
+Run and Bike R 23
+Schwimmen S 24
+Smolball S 25
+Staffellauf S 26
+Tanzen T 27
+Unihockey U 28
+Völkerball V 29
+Volleyball V 30
+
+--------------
+Abteilung
+Sportart
+Klasse
+-1,2,3,4
+Jahr
+2019,2020,2021,2022,2023,2024,2025
+Semester
+HS/ FS
+
